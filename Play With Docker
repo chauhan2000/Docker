@@ -1,0 +1,10 @@
+docker version
+//this commanad is used to check the version of your docker
+
+docker run hello-world
+//if you want to know whether you have completely installed docker on your machine type this command this will give you the confirmation like this
+===================================================================================================================================================
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+This hello-world is nothing but an image
