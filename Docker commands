@@ -1,5 +1,10 @@
+To install docker into your ubuntu virtual machine you can simply type
+sudo snap install docker
+sudo snap services
+NOTE: If you are using ubuntu ensure thatg you write all commands with sudo(Super user do) else it will deny the permission.
+
 docker version
-//this commanad is used to check the version of your docker
+//this commanad is used to check the version of your docker if properly installed
 
 docker run hello-world
 //if you want to know whether you have completely installed docker on your machine type this command this will give you the confirmation like this
